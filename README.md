@@ -74,9 +74,9 @@ ws://localhost:8080/ws?id=1113
 
 ```json
 {
-    "target_id":"abja2024Ayoseun",
+    "target_id":"48trwSQ00",
     "message":"yo, admin chat me up",
-    "sender_id":"1113"
+    "sender_id":"18trwSQ00"
 }
 
 ```
